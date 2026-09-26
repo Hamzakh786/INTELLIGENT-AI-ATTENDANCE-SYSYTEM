@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
